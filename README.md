@@ -164,11 +164,11 @@ Figure 4-3、Figure4-4 Data saved in result/Figure5.xlsb
 
 ### Figure4-7
 
-Figure 4-7 plotted using excel, the data saved in result/不同图表示.xlsb
+Figure 4-7 plotted using excel, the data saved in result/不同信息聚合层.xlsx
 
 ### Figure4-8
 
-Figure 4-8 plotted using excel, the data saved in result/不同层数.xlsb
+Figure 4-8 plotted using excel, the data saved in result/不同层数.xlsx
 
 ### Figure4-10
 
